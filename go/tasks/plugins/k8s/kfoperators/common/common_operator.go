@@ -17,6 +17,7 @@ import (
 
 const (
 	TensorflowTaskType = "tensorflow"
+	MPITaskType = "mpi"
 	PytorchTaskType    = "pytorch"
 )
 
